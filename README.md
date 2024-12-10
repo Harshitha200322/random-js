@@ -1,5 +1,5 @@
 # Random.js
-
+-[HARSHITHA][https://github.com/Harshitha200322]
 [![Build Status](https://travis-ci.org/ckknight/random-js.svg?branch=master)](https://travis-ci.org/ckknight/random-js)
 
 This is designed to be a mathematically correct random number generator library for JavaScript.
